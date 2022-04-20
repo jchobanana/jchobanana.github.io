@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jaye TC Cho
+title: jcho
 tags: [about]
 date: 2021-07-01
 comments: false
@@ -42,7 +42,7 @@ Know a little bit of many things, but not an expert on anything. <br>
 <p></p>
 <br>
 
-## Thank you Thank you My Dear Patrons, I Love You.
+## Patrons
 2021   Silas H. Rhodes Scholarship | New York, NY <br>
 2021   TOSA Graduate Scholarship | New York, NY <br>
 2021   Albert Krehbiel Scholarship | Chicago, IL <br>
