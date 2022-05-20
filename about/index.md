@@ -43,8 +43,8 @@ Know a little bit of many things, but not an expert on anything. <br>
 <br>
 
 ## Patrons
+2022   Tisch Scholarship | New York, NY <br>
 2021   Silas H. Rhodes Scholarship | New York, NY <br>
-2021   TOSA Graduate Scholarship | New York, NY <br>
 2021   Albert Krehbiel Scholarship | Chicago, IL <br>
 2020   Clay Morrison Scholarship | Chicago, IL <br>
 2019   Leon W Guggenheim Scholarship | Chicago, IL <br>
