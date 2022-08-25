@@ -11,13 +11,14 @@ comments: false
 	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
 </figure>
 ## About  
-Born in Taiwan on Shakespeare Day. <br>
-Can't hold eye contact. **Socially awkward (very).**
+Born in Taiwan on Shakespeare Day, yay. <br>
+<p></p>
+Can't hold eye contact. Kinda Socially awkward.
 <p></p>
 Was very lost in life.
 Still very lost in life.
 <p></p>
-Know a little bit of many things, but not an expert on anything. <br>
+Have breadth no depth. <br>
 <p></p>
 <br>
 
@@ -51,4 +52,5 @@ Know a little bit of many things, but not an expert on anything. <br>
 2020   Clay Morrison Scholarship | Chicago, IL <br>
 2019   Leon W Guggenheim Scholarship | Chicago, IL <br>
 2018   Lillian Disney Scholarship | Valencia, CA <br>
+2017   Inheritance from Mommy | Taoyuan, Taiwan  <br>
 <br>
