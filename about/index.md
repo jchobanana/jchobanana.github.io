@@ -12,7 +12,7 @@ comments: false
 </figure>
 ## About  
 Born in Taiwan on Shakespeare Day. <br>
-Hated by most teachers in her childhood. **Socially awkward (very).**
+Can't hold eye contact. **Socially awkward (very).**
 <p></p>
 Was very lost in life.
 Still very lost in life.
