@@ -2,7 +2,7 @@
 layout: page
 title: jcho
 tags: [about]
-date: 2021-07-01
+date: 2022-08-24
 comments: false
 ---
     
@@ -28,6 +28,8 @@ Know a little bit of many things, but not an expert on anything. <br>
 
 ## Group Exhibitions
 
+2022   **The Patriot**, Slobbed Together (Curated) by Jamian Juliano-Villani |  O’Flaherty’s, New York, NY <br>
+<p></p>
 2021   **Goodbye Horses**, Curated by Josh Dihle & Sahnnon Stratton | Research House for Asian Art, Chicago, IL <br>
 <p></p>
 2021   **Graduate Thesis Exhibition**, SAIC Galleries | Chicago, IL <br>
